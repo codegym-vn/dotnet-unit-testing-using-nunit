@@ -1,0 +1,8 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
